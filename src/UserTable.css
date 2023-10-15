@@ -1,0 +1,15 @@
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+  }
+  
+  .custom-table th{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+  }
+  .custom-table td {
+    padding: 6px;
+  }
